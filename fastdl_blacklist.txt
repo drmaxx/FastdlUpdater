@@ -351,3 +351,17 @@ zi_devastation_final1.bsp
 zi_murky.bsp
 zi_sanitarium.bsp
 zi_woods.bsp
+
+
+# List of default HL2DM /maps files
+# based on https://developer.valvesoftware.com/wiki/Half-Life_2:_Deathmatch#Official_maps
+# also based on https://combineoverwiki.net/wiki/Half-Life_2:_Deathmatch#Maps
+# last update 2023-12-30
+dm_lockdown.bsp
+dm_overwatch.bsp
+dm_powerhouse.bsp
+dm_resistance.bsp
+dm_runoff.bsp
+dm_steamlab.bsp
+dm_underpass.bsp
+halls3.bsp
