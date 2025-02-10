@@ -1,14 +1,18 @@
 import bz2
 import os
+import configparser
 from shutil import copyfileobj, copyfile
 from sys import argv
 from time import time
 from argparse import ArgumentParser, RawTextHelpFormatter
 
+# Load configuration
+config = configparser.ConfigParser()
+config.read('fastdl.ini')
 
-gameRootFolder = "./csgo"
-fastdlRootFolder = "./www/fastdl"
-blackListPath = "./fastdl_blacklist.txt"
+gameRootFolder = config.get('Paths', 'gameRootFolder', fallback='./csgo')
+fastdlRootFolder = config.get('Paths', 'fastdlRootFolder', fallback='./www/fastdl')
+blackListPath = config.get('Paths', 'blackListPath', fallback='./fastdl_blacklist.txt')
 
 gameFolders = [
 	("maps", [".bsp", ".nav"]),
