@@ -1,8 +1,10 @@
 # List of the default CSGO /maps files:
+# based on https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive/Maps
+# Last update 2025-02-10
+ar_baggage_story.txt
 ar_baggage.bsp
 ar_baggage.jpg
 ar_baggage.nav
-ar_baggage_story.txt
 ar_dizzy.bsp
 ar_dizzy.jpg
 ar_dizzy.nav
@@ -11,36 +13,36 @@ ar_lunacy.nav
 ar_monastery.bsp
 ar_monastery.jpg
 ar_monastery.nav
+ar_shoots_story.txt
 ar_shoots.bsp
 ar_shoots.jpg
 ar_shoots.nav
-ar_shoots_story.txt
-cs_agency.bsp
 cs_agency_cameras.txt
+cs_agency.bsp
 cs_agency.jpg
 cs_agency.txt
-cs_assault.bsp
 cs_assault_cameras.txt
+cs_assault.bsp
 cs_assault.jpg
 cs_assault.nav
-cs_italy.bsp
 cs_italy_cameras.txt
+cs_italy_story.txt
+cs_italy.bsp
 cs_italy.jpg
 cs_italy.nav
-cs_italy_story.txt
-cs_militia.bsp
 cs_militia_cameras.txt
+cs_militia.bsp
 cs_militia.jpg
 cs_militia.nav
-cs_office.bsp
 cs_office_cameras.txt
+cs_office_story.txt
+cs_office.bsp
 cs_office.jpg
 cs_office.nav
-cs_office_story.txt
+de_ancient_retake.txt
 de_ancient.bsp
 de_ancient.jpg
 de_ancient.nav
-de_ancient_retake.txt
 de_anubis.bsp
 de_anubis.jpg
 de_anubis.nav
@@ -51,51 +53,51 @@ de_bank.nav
 de_boyard.bsp
 de_boyard.jpg
 de_boyard.txt
-de_cache.bsp
 de_cache_cameras.txt
+de_cache.bsp
 de_cache.jpg
 de_cache.txt
 de_canals.bsp
 de_canals.jpg
 de_canals.nav
-de_cbble.bsp
 de_cbble_cameras.txt
+de_cbble.bsp
 de_cbble.jpg
 de_cbble.nav
 de_chalice.bsp
 de_chalice.jpg
 de_chalice.txt
-de_dust2.bsp
 de_dust2_cameras.txt
-de_dust2.jpg
-de_dust2.nav
 de_dust2_retake.txt
 de_dust2_story.txt
-de_inferno.bsp
+de_dust2.bsp
+de_dust2.jpg
+de_dust2.nav
 de_inferno_cameras.txt
-de_inferno.jpg
-de_inferno.nav
 de_inferno_retake.txt
 de_inferno_story.txt
+de_inferno.bsp
+de_inferno.jpg
+de_inferno.nav
 de_lake.bsp
 de_lake.jpg
 de_lake.nav
-de_mirage.bsp
 de_mirage_cameras.txt
+de_mirage_retake.txt
+de_mirage.bsp
 de_mirage.jpg
 de_mirage.nav
-de_mirage_retake.txt
-de_nuke.bsp
 de_nuke_cameras.txt
-de_nuke.jpg
-de_nuke.nav
 de_nuke_retake.txt
 de_nuke_story.txt
-de_overpass.bsp
+de_nuke.bsp
+de_nuke.jpg
+de_nuke.nav
 de_overpass_cameras.txt
+de_overpass_retake.txt
+de_overpass.bsp
 de_overpass.jpg
 de_overpass.nav
-de_overpass_retake.txt
 de_safehouse.bsp
 de_safehouse.jpg
 de_safehouse.nav
@@ -110,21 +112,21 @@ de_stmarc.nav
 de_sugarcane.bsp
 de_sugarcane.jpg
 de_sugarcane.nav
-de_train.bsp
 de_train_cameras.txt
+de_train_retake.txt
+de_train.bsp
 de_train.jpg
 de_train.nav
-de_train_retake.txt
 de_tuscan.bsp
 de_tuscan.jpg
 de_tuscan.txt
-de_vertigo.bsp
 de_vertigo_cameras.txt
+de_vertigo_retake.txt
+de_vertigo.bsp
 de_vertigo.jpg
 de_vertigo.nav
-de_vertigo_retake.txt
-dz_blacksite.bsp
 dz_blacksite_cameras.txt
+dz_blacksite.bsp
 dz_blacksite.nav
 dz_ember.bsp
 dz_ember.jpg
@@ -144,6 +146,8 @@ training1.jpg
 training1.nav
 
 # List of the default CSS /maps files:
+# based on https://developer.valvesoftware.com/wiki/Counter-Strike:_Source
+# Last update 2025-02-10
 cs_assault.bsp
 cs_compound.bsp
 cs_havana.bsp
@@ -153,8 +157,8 @@ cs_office.bsp
 de_aztec.bsp
 de_cbble.bsp
 de_chateau.bsp
-de_dust2.bsp
 de_dust.bsp
+de_dust2.bsp
 de_inferno.bsp
 de_nuke.bsp
 de_piranesi.bsp
@@ -167,7 +171,7 @@ test_speakers.bsp
 
 # List of the default TF2 /maps files:
 # based on https://wiki.teamfortress.com/wiki/List_of_maps
-# Last update 2023-12-27
+# Last update 2025-02-10
 arena_badlands.bsp
 arena_byre.bsp
 arena_granary.bsp
@@ -186,15 +190,20 @@ cp_altitude.bsp
 cp_ambush_event.bsp
 cp_badlands.bsp
 cp_brew.bsp
+cp_burghausen.bsp
+cp_canaveral_5cp.bsp
 cp_carrier.bsp
 cp_cloak.bsp
 cp_coldfront.bsp
+cp_darkmarsh.bsp
 cp_degrootkeep_rats.bsp
 cp_degrootkeep.bsp
 cp_dustbowl.bsp
 cp_egypt_final.bsp
 cp_fastlane.bsp
+cp_fortezza.bsp
 cp_foundry.bsp
+cp_freaky_fair.bsp
 cp_freight_final1.bsp
 cp_frostwatch.bsp
 cp_gorge_event.bsp
@@ -203,6 +212,7 @@ cp_granary.bsp
 cp_gravelpit_snowy.bsp
 cp_gravelpit.bsp
 cp_gullywash_final1.bsp
+cp_hadal.bsp
 cp_hardwood_final.bsp
 cp_junction_final.bsp
 cp_lavapit_final.bsp
@@ -211,6 +221,7 @@ cp_mercenarypark.bsp
 cp_metalworks.bsp
 cp_mossrock.bsp
 cp_mountainlab.bsp
+cp_overgrown.bsp
 cp_powerhouse.bsp
 cp_process_final.bsp
 cp_reckoner.bsp
@@ -227,6 +238,7 @@ cp_well.bsp
 cp_yukon_final.bsp
 ctf_2fort_invasion.bsp
 ctf_2fort.bsp
+ctf_applejack.bsp
 ctf_crasher.bsp
 ctf_doublecross_snowy.bsp
 ctf_doublecross.bsp
@@ -238,6 +250,7 @@ ctf_hellfire.bsp
 ctf_helltrain_event.bsp
 ctf_landfall.bsp
 ctf_pelican_peak.bsp
+ctf_penguin_peak.bsp
 ctf_sawmill.bsp
 ctf_snowfall_final.bsp
 ctf_thundermountain.bsp
@@ -248,6 +261,7 @@ itemtest.bsp
 koth_badlands.bsp
 koth_bagel_event.bsp
 koth_brazil.bsp
+koth_cachoeira.bsp
 koth_cascade.bsp
 koth_harvest_event.bsp
 koth_harvest_final.bsp
@@ -260,8 +274,10 @@ koth_lazarus.bsp
 koth_los_muertos.bsp
 koth_maple_ridge_event.bsp
 koth_megalo.bsp
+koth_megaton.bsp
 koth_moonshine_event.bsp
 koth_nucleus.bsp
+koth_overcast_final.bsp
 koth_probed.bsp
 koth_rotunda.bsp
 koth_sawmill_event.bsp
@@ -273,6 +289,7 @@ koth_slime.bsp
 koth_snowtower.bsp
 koth_suijin.bsp
 koth_synthetic_event.bsp
+koth_toxic.bsp
 koth_undergrove_event.bsp
 koth_viaduct_event.bsp
 koth_viaduct.bsp
@@ -286,6 +303,8 @@ mvm_rottenburg.bsp
 pass_brickyard.bsp
 pass_district.bsp
 pass_timbertown.bsp
+pd_atom_smash.bsp
+pd_circus.bsp
 pd_cursed_cove_event.bsp
 pd_farmageddon.bsp
 pd_galleria.bsp
@@ -306,6 +325,7 @@ pl_cashworks.bsp
 pl_chilly.bsp
 pl_coal_event.bsp
 pl_corruption.bsp
+pl_embargo.bsp
 pl_emerge.bsp
 pl_enclosure_final.bsp
 pl_fifthcurve_event.bsp
@@ -315,6 +335,8 @@ pl_goldrush.bsp
 pl_hasslecastle.bsp
 pl_hoodoo_final.bsp
 pl_millstone_event.bsp
+pl_odyssey.bsp
+pl_patagonia.bsp
 pl_phoenix.bsp
 pl_pier.bsp
 pl_precipice_event_final.bsp
@@ -330,6 +352,7 @@ pl_upward.bsp
 pl_venice.bsp
 pl_wutville_event.bsp
 plr_bananabay.bsp
+plr_cutter.bsp
 plr_hacksaw_event.bsp
 plr_hacksaw.bsp
 plr_hightower_event.bsp
@@ -340,13 +363,17 @@ rd_asteroid.bsp
 sd_doomsday_event.bsp
 sd_doomsday.bsp
 tc_hydro.bsp
+tow_dynamite.bsp
 tr_dustbowl.bsp
 tr_target.bsp
 vsh_distillery.bsp
+vsh_maul.bsp
 vsh_nucleus.bsp
+vsh_outburst.bsp
 vsh_skirmish.bsp
 vsh_tinyrock.bsp
 zi_atoll.bsp
+zi_blazehattan.bsp
 zi_devastation_final1.bsp
 zi_murky.bsp
 zi_sanitarium.bsp
